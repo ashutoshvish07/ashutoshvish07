@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SlWRhEFYpnYIoS9N8GKHW_ZaQElHFeB9/view?usp=sharing">Resume</a>
 
-- 🔥 PortFolio <a href="https://comfy-dodol-2160d0.netlify.app/" target="blank">https://jaya-vishwakarma-portfolio.netlify.app/</a>
+- 🔥 PortFolio <a href="https://comfy-dodol-2160d0.netlify.app/" target="blank">https://comfy-dodol-2160d0.netlify.app/</a>
 
 
 
