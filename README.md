@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working as **Software Developer** at **9YARDS TECHNOLOGY** (onsite at SHL India Pvt. Ltd.)
-- 💼 **2+ years** of experience in full-stack web development
+- 💼 **3+ years** of experience in full-stack web development
 - 🌱 Currently exploring **Next.js 14**, **TypeScript**, and **Cloud Technologies**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ashutoshvish07)
 - 💬 Ask me about **React.js, Node.js, MongoDB, JavaScript**
